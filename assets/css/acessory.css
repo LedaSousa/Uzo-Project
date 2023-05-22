@@ -1,0 +1,33 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color:rgb(171, 171, 171);
+}
+
+.img {
+    float: left;
+    width: 35%;
+    height: 35%;
+}
+
+.nome {
+    color: #D5E100;
+    font-size: 1.5em;
+}
+
+.prop {
+    color:#8100D1;
+    font-size: 1.5em;
+}
+
+.produto p {
+    font-size: 1.2em;
+    overflow: auto;
+}
+
+.btn-comprar {
+    float: right;
+    position: bottom;
+}
